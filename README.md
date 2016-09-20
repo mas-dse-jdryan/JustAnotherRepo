@@ -1,2 +1,2 @@
 # JustAnotherRepo
-Testing a new repo
+GitHub pre-work for UCSD MAS DSE programm
